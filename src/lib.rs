@@ -1,3 +1,7 @@
+mod reverse_linked_list;
+
+pub use reverse_linked_list::test_reverse_list;
+
 // for benchmark
 #[inline]
 pub fn fibonacci(n: u64) -> u64 {
