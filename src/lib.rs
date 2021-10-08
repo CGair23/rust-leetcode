@@ -1,6 +1,6 @@
-mod reverse_linked_list;
+mod s206reverse_linked_list;
 
-pub use reverse_linked_list::test_reverse_list;
+pub use s206reverse_linked_list::test_reverse_list;
 
 // for benchmark
 #[inline]
