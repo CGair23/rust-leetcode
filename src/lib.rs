@@ -1,6 +1,7 @@
-mod s206reverse_linked_list;
+mod s0206reverse_linked_list;
+mod s0001_two_sum;
 
-pub use s206reverse_linked_list::test_reverse_list;
+pub use s0206reverse_linked_list::test_reverse_list;
 
 // for benchmark
 #[inline]
